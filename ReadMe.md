@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevOps & DSA**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **MERN Stack & DSA**
 
 - 📫 How to reach me **vikasviku567@gmail.com**
 
